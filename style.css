@@ -1,0 +1,50 @@
+body{
+background-color:#f5f7fa;
+font-family: Arial, sans-serif;
+}
+
+.navbar{
+background-color:#233F6E !important;
+}
+
+.navbar-brand{
+color:white !important;
+}
+
+.card{
+border:none;
+border-radius:15px;
+}
+
+.card-header{
+border-radius:15px 15px 0 0 !important;
+}
+
+.productos-header{
+background-color:#233F6E;
+}
+
+.servicios-header{
+background-color:#233F6E;
+}
+
+.btn-primary{
+background-color:#233F6E;
+border:none;
+}
+
+.btn-primary:hover
+
+.table{
+margin-bottom:0;
+}
+
+h3{
+margin:0;
+}
+
+.modal-header{
+background-color:#233F6E;
+color:white;
+}
+
